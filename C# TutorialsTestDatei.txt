@@ -1,0 +1,1 @@
+Ein fester Text in eine Datei.
