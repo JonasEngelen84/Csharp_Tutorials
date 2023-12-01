@@ -16,7 +16,7 @@ namespace Klasse_Console
             Console.WindowWidth = 100;       // Setzt Breite der Konsole.
             Console.Beep();                 // Gibt Signalton bei Öffnen der Konsole.
             Console.SetWindowSize(50, 20); // Setzt Breite und Höhe der Konsole.
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Error!");
             Console.ReadKey();
             Console.Clear();
         }
